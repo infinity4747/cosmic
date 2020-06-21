@@ -1,2 +1,2 @@
 # cosmic
-see documentation.txt
+see documentation.pdf
