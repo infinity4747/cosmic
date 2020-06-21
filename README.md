@@ -1,1 +1,2 @@
 # cosmic
+see documendation.txt
